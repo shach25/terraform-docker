@@ -2,7 +2,7 @@
 
 2.Installed Terraform and verified version.
 
-3.Created a project folder and wrote the main.tf configuration:
+3.Created a project folder and wrote the main.tf configuration
 
 4.Pulled nginx Docker image
 
