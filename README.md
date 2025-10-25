@@ -1,14 +1,14 @@
-Installed Docker and ensured Docker is running.
+1.Installed Docker and ensured Docker is running.
 
-Installed Terraform and verified version.
+2.Installed Terraform and verified version.
 
-Created a project folder and wrote the main.tf configuration:
+3.Created a project folder and wrote the main.tf configuration:
 
-Pulled nginx:latest Docker image
+4.Pulled nginx:latest Docker image
 
-Created and started a Docker container mapped to port 8080 → 80
+5.Created and started a Docker container mapped to port 8080 → 80
 
-Ran Terraform workflow commands:
+6.Ran Terraform workflow commands:
 
 terraform init → Initialized provider plugins
 
@@ -22,4 +22,4 @@ terraform state list → Checked managed resources
 
 terraform destroy → Removed container and image
 
-Saved all command outputs in logs.txt.
+7.Saved all command outputs in logs.txt.
