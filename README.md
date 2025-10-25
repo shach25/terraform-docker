@@ -22,4 +22,4 @@ terraform state list → Checked managed resources
 
 terraform destroy → Removed container and image
 
-7.Saved all command outputs in logs.txt.
+7.Saved all command outputs in execution logs.txt.
